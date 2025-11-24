@@ -1,2 +1,2 @@
 # E-commerce
-A fully functional e-commerce website built with modern UI and core shopping features, including product listing, cart system, checkout flow, and user authentication. Designed for smooth performance and a complete online shopping experience.
+A professional e-commerce platform with advanced features such as product management, user accounts, shopping cart, secure checkout, and responsive design. Built to deliver a fast, clean, and seamless shopping experience.
